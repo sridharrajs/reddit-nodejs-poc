@@ -1,0 +1,26 @@
+{
+  "name": "reddit-poc",
+  "version": "1.0.0",
+  "description": "This repo contains poc to demonstrate reddit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sridharrajs <sridhar@aghenam.com>",
+  "license": "MIT",
+  "dependencies": {
+    "snoowrap": "^1.15.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridharrajs/reddit-nodejs-poc.git"
+  },
+  "keywords": [
+    "reddit-poc"
+  ],
+  "bugs": {
+    "url": "https://github.com/sridharrajs/reddit-nodejs-poc/issues"
+  },
+  "homepage": "https://github.com/sridharrajs/reddit-nodejs-poc#readme"
+}

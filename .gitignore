@@ -1,0 +1,16 @@
+node_modules/
+
+npm-debug.log
+
+# meta folder
+.idea/
+.tern-port
+
+# emacs
+*~
+*#
+.#*
+
+# Environment variable
+.env
+
